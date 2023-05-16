@@ -1,7 +1,5 @@
 # Hey, I'm JokerWen!
 
-<!-- <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
- -->
 I am a beginner and have not yet entered the industry. My focus is on web front-end development, and I enjoy coding.
 
 I enjoy development and design because they help me grow.
