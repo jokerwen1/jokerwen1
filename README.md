@@ -14,18 +14,19 @@ Contact my email: jokerwen11@gmail.com
 
 | 🎵 Currently playing song                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://open.spotify.com/track/1C4g4g2rThSK2s4PKakIyj?si=165d577b4a6d487a"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161551941.png" width="540" height="264"></a> |
+| <a href="https://music.youtube.com/watch?v=IXisGwqkJPo&feature=share"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161612419.png" width="540" height="264"></a> |
 
 
 <table>
   <thead>
     <tr>
-      <th>📈 Top Tracks</th>
+      <th>📈 Recommended Song
+</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
+      <td>1. Umbrella<a href="https://music.youtube.com/watch?v=xXD5tltX9Pg&feature=share"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161620653.png" width="120" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
