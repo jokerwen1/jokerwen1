@@ -14,7 +14,7 @@ Contact my email: jokerwen11@gmail.com
 | ------------------------------------------------------------------------------------------------------------------------------ |
    <a href="https://open.spotify.com/track/1C4g4g2rThSK2s4PKakIyj?si=f50041e051fa45ac">Time To Pretend</a>
 
-| <a href="https://music.youtube.com/watch?v=IXisGwqkJPo&feature=share"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161650795.png" width="300" height="300"></a> |
+| <a href="https://open.spotify.com/track/1C4g4g2rThSK2s4PKakIyj?si=73617abdb0f64a22"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161650795.png" width="300" height="300"></a> |
 
 <table>
   <thead>
@@ -28,16 +28,16 @@ Contact my email: jokerwen11@gmail.com
   </thead>
   <tbody>
     <tr>
-       <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161643944.png" width="300" height="300"></a>
+       <td><a href="https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux?si=43e50f11204d4d7f"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161643944.png" width="300" height="300"></a>
      </td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161704366.png" width="300" height="300"></a></td>
+      <td><a href="https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm?si=54111eef1e6c447b"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161704366.png" width="300" height="300"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
  <tr>
-      <td><a href="https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y?si=4824f986f11f4417"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161709959.png" width="300" height="300"></a></td>
+      <td><a href="https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y?si=78b2d14c0fc54f0a"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161709959.png" width="300" height="300"></a></td>
     </tr> 
   </tbody>
 </table>
