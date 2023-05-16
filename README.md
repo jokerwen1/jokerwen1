@@ -11,9 +11,10 @@ I enjoy development and design because they help me grow.
 Contact my email: jokerwen11@gmail.com
 ---
 
-| 🎵 Now Playing                                                                                                                    |
+
+| 🎵 Currently playing song                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161546645.png" width="540" height="64"></a> |
+| <a href="https://open.spotify.com/track/1C4g4g2rThSK2s4PKakIyj?si=165d577b4a6d487a"><img src="https://joker-wen-1307590525.cos.ap-guangzhou.myqcloud.com/202305161551941.png" width="540" height="264"></a> |
 
 
 <table>
