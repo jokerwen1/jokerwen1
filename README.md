@@ -1,5 +1,5 @@
-### Hello，我是JokerWen，一条菜狗 👋
-
+### Hello，我是JokerWen，欢迎来到我的主页🎉🎉🎉
+我现在还是一条菜狗，请多多指教
 <!--
 **jokerwen1/jokerwen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
